@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "339290659005",
+    "project_id": "connectit-421a0",
+    "storage_bucket": "connectit-421a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339290659005:android:53d31514b46f9c2e46bfd4",
+        "android_client_info": {
+          "package_name": "com.guru49.connectit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339290659005-q6b7u14iodqk1j1h4crs9cip1sm5a9fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASZIhYoGf-i9z8IM4orO9W8xOQMCgqfWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339290659005-q6b7u14iodqk1j1h4crs9cip1sm5a9fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
